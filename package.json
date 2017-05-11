@@ -1,0 +1,17 @@
+{
+  "name": "udpx",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-chai-friendly": "^0.3.6",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
